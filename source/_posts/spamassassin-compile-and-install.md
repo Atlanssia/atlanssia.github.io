@@ -1,5 +1,5 @@
 ---
-title: spamassassin-compile-and-install
+title: spamassassin compile and install
 date: 2017-03-16 16:44:07
 tags:
 ---
